@@ -1,4 +1,4 @@
-### Olá! Eu sou o Braulio, tenho 50 anos, sou formado em Administração e resolvi aprender Programação mas apenas como hobby.
+### Olá! Eu sou o Braulio, tenho 50 anos, sou formado em Administração e resolvi aprender programação.
 Estou iniciando com front-end mas meu objetivo é fullstack.
 Meu principal objetivo aqui no Github é aprender muito e colaborar sempre que possível.
 
