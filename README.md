@@ -15,8 +15,7 @@ Meu principal objetivo aqui no Github é aprender muito e colaborar sempre que p
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Arch-Linux" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
- 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png">
 </div>
   
   ##
