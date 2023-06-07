@@ -19,3 +19,8 @@ Meu principal objetivo aqui no Github é aprender muito e colaborar sempre que p
 </div>
   
   ##
+  
+  ## Get in touch with me
+  
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/braulio-truylio/)
+[![](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:braulio.truylio@gmail.com)
