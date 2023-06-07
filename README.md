@@ -1,6 +1,5 @@
-### Olá! Eu sou o Braulio, tenho 50 anos, sou formado em Administração e resolvi aprender programação.
-Estou iniciando com front-end mas meu objetivo é fullstack.
-Meu principal objetivo aqui no Github é aprender muito e colaborar sempre que possível.
+### Hello! I'm Braulio, I'm 50 years old, I have a degree in Business Administration and I decided to learn programming.
+I'm starting with front-end but my goal is fullstack. My main goal here at Github is to learn a lot and collaborate whenever possible.
 
 <div align="center">
   <a href="https://github.com/brauliotruylio">
