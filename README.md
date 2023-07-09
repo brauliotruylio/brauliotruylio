@@ -23,3 +23,4 @@ I'm starting with front-end but my goal is fullstack. My main goal here at Githu
   
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/braulio-truylio/)
 [![](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:braulio.truylio@gmail.com)
+<a href="https://instagram.com/braulio.truylio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
