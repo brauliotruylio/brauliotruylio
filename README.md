@@ -3,7 +3,7 @@ I'm starting with front-end but my goal is fullstack. My main goal here at Githu
 
 <div align="center">
   <a href="https://github.com/brauliotruylio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauliotruylio&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauliotruylio&theme=codeSTACKr&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliotruylio&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
