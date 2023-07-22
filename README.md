@@ -7,7 +7,7 @@ I'm starting with front-end but my goal is fullstack. My main goal here at Githu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliotruylio&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
-    #### Main Stack:
+#### Main Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,7 @@ I'm starting with front-end but my goal is fullstack. My main goal here at Githu
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
-  ##
+##
 
 #### Workstation Tools:
 
@@ -28,7 +28,7 @@ I'm starting with front-end but my goal is fullstack. My main goal here at Githu
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-  ##
+##
   ## Get in touch with me
   
  <a href="https://www.linkedin.com/in/braulio-truylio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
