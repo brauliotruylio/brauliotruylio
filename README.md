@@ -29,6 +29,8 @@ Estou em transição de carreira e mergulhado no universo da programação, com 
   <img src="https://img.shields.io/badge/Agno%20Framework-000000?style=flat&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=OpenAI&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/n8n.io-EF6C00?style=flat&logo=n8n&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat&logo=huggingface&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/CrewAI-1E1E1E?style=flat&logo=python&logoColor=white" height="25"/>
 </div>
 
 ---
@@ -40,6 +42,7 @@ Estou em transição de carreira e mergulhado no universo da programação, com 
 ![Zed Editor](https://img.shields.io/badge/Zed-333333?style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
@@ -48,7 +51,8 @@ Estou em transição de carreira e mergulhado no universo da programação, com 
 Atualmente estou construindo soluções com:
 
 - ⚙️ **n8n + Python** para automações inteligentes
-- 🤖 **LangChain + Agno** para agentes de IA personalizados
+- 🤖 **LangChain, Agno e CrewAI** para agentes de IA personalizados
+- 📦 **Integrações com Hugging Face** para uso de LLMs e modelos pré-treinados
 - 🌐 **Projetos web com HTML, CSS, JavaScript**
 - 🧠 Dashboards e pipelines para aplicações reais com IA local e cloud
 
