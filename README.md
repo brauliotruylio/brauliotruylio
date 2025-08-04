@@ -1,42 +1,72 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brauliotruylio&color=red" alt="Profile views" /> </p>
-Hello! I'm Braulio, I'm 50 years old, I have a degree in Business Administration and I decided to learn programming.
-I'm starting with front-end but my goal is fullstack. My main goal here at Github is to learn a lot and collaborate whenever possible.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brauliotruylio&color=blue" alt="Profile views" />
+</p>
+
+<h1 align="center">👋 Hello! I'm Braulio</h1>
+
+<p align="center">🧠 Developer focused on Python, AI Agents, Automations & Front-end</p>
+
+---
+
+### 🇧🇷 Sobre mim
+
+Olá! Sou o Braulio, tenho 50 anos e sou formado em Administração.  
+Estou em transição de carreira e mergulhado no universo da programação, com foco em **Python**, **automação inteligente** e **desenvolvimento de agentes IA**.
+
+> 🎯 Objetivo: Criar soluções práticas, inteligentes e automatizadas  
+> 🚀 Sempre aprendendo e agora também publicando projetos úteis e reais  
+> 📍 Porto Alegre, RS - Brasil
+
+---
+
+### 💻 Stack Atual
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://img.shields.io/badge/Agno%20Framework-000000?style=flat&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=OpenAI&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/n8n.io-EF6C00?style=flat&logo=n8n&logoColor=white" height="25"/>
+</div>
+
+---
+
+### 🛠️ Ferramentas de trabalho
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor-1B1B1B?style=flat-square)
+![Zed Editor](https://img.shields.io/badge/Zed-333333?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚧 Em desenvolvimento
+
+Atualmente estou construindo soluções com:
+
+- ⚙️ **n8n + Python** para automações inteligentes
+- 🤖 **LangChain + Agno** para agentes de IA personalizados
+- 🌐 **Projetos web com HTML, CSS, JavaScript**
+- 🧠 Dashboards e pipelines para aplicações reais com IA local e cloud
+
+📌 Em breve, os primeiros projetos práticos estarão disponíveis aqui no GitHub.
+
+---
+
+### 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-truylio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:braulio.truylio@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/braulio.truylio)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/brauliotruylio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauliotruylio&theme=codeSTACKr&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliotruylio&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brauliotruylio&show_icons=true&theme=codeSTACKr" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliotruylio&layout=compact&theme=codeSTACKr" />
 </div>
-
-#### Main Stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-</div>
-
-##
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-##
-  ## Get in touch with me
-  
- <a href="https://www.linkedin.com/in/braulio-truylio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:braulio.truylio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/braulio.truylio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
