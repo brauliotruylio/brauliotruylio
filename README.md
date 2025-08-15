@@ -6,18 +6,7 @@
 
 <p align="center">🧠 Developer focused on Python, AI Agents, Automations & Front-end</p>
 
----
 
-### 🇧🇷 Sobre mim
-
-Olá! Sou o Braulio, tenho 50 anos e sou formado em Administração.  
-Estou em transição de carreira e mergulhado no universo da programação, com foco em **Python**, **automação inteligente** e **desenvolvimento de agentes IA**.
-
-> 🎯 Objetivo: Criar soluções práticas, inteligentes e automatizadas  
-> 🚀 Sempre aprendendo e agora também publicando projetos úteis e reais  
-> 📍 Porto Alegre, RS - Brasil
-
----
 
 ### 💻 Stack Atual
 
