@@ -37,7 +37,6 @@
 
 ### 🚧 Em desenvolvimento
 
-Atualmente estou construindo soluções com:
 
 - ⚙️ **n8n + Python** para automações inteligentes
 - 🤖 **LangChain, Agno e CrewAI** para agentes de IA personalizados
@@ -45,11 +44,9 @@ Atualmente estou construindo soluções com:
 - 🌐 **Projetos web com HTML, CSS, JavaScript**
 - 🧠 Dashboards e pipelines para aplicações reais com IA local e cloud
 
-📌 Em breve, os primeiros projetos práticos estarão disponíveis aqui no GitHub.
 
 ---
-
-### 🤝 Conecte-se comigo
+ comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-truylio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:braulio.truylio@gmail.com)
