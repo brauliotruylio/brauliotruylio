@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=brauliotruylio&color=blue" alt="Profile views" />
 </p>
 
-<h1 align="center">👋 Hello! I'm Braulio</h1>
+<h1 align="center">I'm Braulio, i like AI and Python, that's about it.</h1>
 
 
 
