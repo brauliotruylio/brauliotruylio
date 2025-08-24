@@ -4,7 +4,6 @@
 
 <h1 align="center">👋 Hello! I'm Braulio</h1>
 
-<p align="center">🧠 Developer focused on Python, AI Agents, Automations & Front-end</p>
 
 
 - ⚙️ **n8n + Python** para automações inteligentes
